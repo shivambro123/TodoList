@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+}
+.out{
+    
+padding: 20px;
+}
+.new{
+    margin: auto;
+    background-color: antiquewhite;
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+}
